@@ -35,7 +35,7 @@
     "electron-builder": "^20.39.0",
     "electron-react-devtools": "^0.5.3",
     "jest": "^24.8.0",
-    "next": "^8.1.0",
+    "next": "^9.3.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
